@@ -1,4 +1,4 @@
-### Hi there! 👋 I'm [NAVEEN RAJ C] 👩‍💻
+### Hi there! 👋 I'm NAVEEN RAJ C 👩‍💻
 
 I'm a passionate aspiring Data Scientist with a background in Mechatronics Engineering. My journey in data science began with a curiosity to uncover patterns and valuable insights from complex datasets. I believe in the power of data-driven decisions and how they can drive positive changes in various industries.
 
